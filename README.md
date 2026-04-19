@@ -12,8 +12,7 @@ Alongside development, I have a deep interest in research, particularly in post-
 🌱 Learning advanced backend architecture, microservices, Cloud Computing and system design  
 📫 Reach me at: roykrishnenduroy01@gmail.com  
 👨‍💻 GitHub: https://github.com/Krishnendu-1  
-📄 Resume: https://drive.google.com/file/d/1-gMW8dbbCrLFUsJ8CLFYoHZdBsA2QDQq/view?usp=drive_link
-💬 Ask me about: MERN stack, Backend Development, REST APIs, DSA, System Design  
+📄 Resume: https://drive.google.com/file/d/1-gMW8dbbCrLFUsJ8CLFYoHZdBsA2QDQq/view?usp=drive_link 
 ⚡ Fun fact: I once aimed to become a doctor but ended up engineering scalable systems instead 😄  
 
 ---
