@@ -6,9 +6,7 @@ A final-year B.Tech student in Computer Science & Engineering at Narula Institut
 I am a Backend developer with strong expertise in building scalable and secure applications using the modern tech stack. I specialize in backend architecture, real-time systems, and API design, with hands-on experience in deploying production-ready applications.
 
 Alongside development, I have a deep interest in research, particularly in post-disaster communication systems using Delay Tolerant Networks (DTN) and drone-based surveillance technologies.
-
 <br><br>
-
 🔭 Currently building scalable *Backend* applications with focus on performance & security  
 👯 Open to collaborating on impactful open-source and research-driven projects  
 🌱 Learning advanced backend architecture, microservices, Cloud Computing and system design  
